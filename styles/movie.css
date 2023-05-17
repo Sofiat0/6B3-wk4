@@ -1,0 +1,30 @@
+html{
+font-size: 20px;
+}
+
+main{
+    width: 80%;
+    text-align: center;
+    background-color: #FF2858;
+    color: #00B31D;
+    height: 100vh;
+    margin: auto;
+}
+
+h1{
+text-align: center;
+padding-top: 2em;
+padding-bottom: 2em;
+padding-left: 3em;
+padding-right: 3em;
+}
+
+h2{
+    border-bottom: 10px groove;
+    margin-bottom:  1rem solid blue ;
+}
+p{
+    font-size: 2rem;
+    border-right: 10px groove;
+    border-left: 10px groove ;
+}

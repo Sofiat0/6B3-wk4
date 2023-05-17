@@ -1,0 +1,46 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    width: 50%;
+    height: 60vh;
+    background-color: rgba(0, 0, 255, 0.041);
+    margin: auto;
+    background: linear-gradient(180deg, green 30%, white 30%, white 65%, green 65%);
+}
+h1 span{
+    color: red;
+}
+div{
+    width: 50%;
+    height: 60vh;
+    background-color: rgba(0, 0, 255, 0.041);
+    margin: auto;
+    background: linear-gradient(90deg, black 30%, yellow 30%, yellow 65%, red 65%);
+    margin-bottom: 50px;
+}
+h2{
+    width: 50%;
+    height: 60vh;
+    background-color: rgba(0, 0, 255, 0.041);
+    margin: auto;
+    background: linear-gradient(90deg, green 30%, white 30%, white 65%, green 65%);
+    margin-bottom: 50px;
+}
+h3{
+    width: 50%;
+    height: 60vh;
+    background-color: rgba(0, 0, 255, 0.041);
+    margin: auto;
+    background: linear-gradient(180deg,red 30%, white 30%, white 35%, blue 35%, blue 60% , white 60%, white 65%, green 65% );
+    margin-bottom: 50px;
+}
+h4{
+    width: 50%;
+    height: 60vh;
+    background-color: rgba(0, 0, 255, 0.041);
+    margin: auto;
+    background: linear-gradient(90deg,  #0055A4 30%, white 30%, white 65%, #EF4135 65%);
+    margin-bottom: 50px;
+}
