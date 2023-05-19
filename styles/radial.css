@@ -1,0 +1,56 @@
+.image{
+    width: 700px;
+    height: 400px;
+    background: url(../image/silva.jpg);
+    background-size: cover;
+    color: transparent;
+    font-size: 4em;
+    text-align: center;
+
+}
+
+.conic{
+    text-transform: uppercase;
+    font-size: 4em;
+    text-align: center;
+    width: 700px;
+    height: 400px;
+    margin-top: 30px;
+    color: transparent;
+    background: conic-gradient(red 30%, blue 30%, blue 60%, violet 60%);
+}
+.online{
+    width: 700px;
+    height: 400px;
+    background-image:url(../images-re.png) , url(https://images.unsplash.com/photo-1587500154541-1cafd74f0efc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80)
+    ,url(https://images.unsplash.com/photo-1581092583537-20d51b4b4f1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZW5naW5lZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60)
+   ,linear-gradient(90deg, blue , green, yellow);
+    background-size: 250px, 150px;
+    background-position: center ,top left, bottom right;
+    background-repeat: no-repeat, no-repeat , no-repeat, repeat;
+    margin-bottom: 50px;
+}
+
+.ghana{
+        width: 700px;
+        height: 400px;
+        background-color: rgba(0, 0, 255, 0.041);
+        margin: auto;
+        background-image: url(../image/images-remo.png) ,linear-gradient(180deg, red 30%, yellow 30%, yellow 65%, green 65%);
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-bottom: 50px;
+    }
+
+    .blend{
+        width: 700px;
+        height: 400px;
+        background-size: cover; 
+        background-image: url(../messi.jpeg);
+        background-color: rgb(65, 64 ,65, 0.878);
+        background-repeat: no-repeat;
+    }
+    .blend:hover{
+        background-blend-mode: overlay;
+        cursor: pointer;
+    }
